@@ -5,7 +5,7 @@
 
 ![](查询Guitar.png)
 
-1[](删除操作.png)
+![](删除操作.png)
 ![](结果显示.png)
 
 ![](添加Guitar.png)
